@@ -5,7 +5,7 @@ If github in unable to render a Jupyter notebook, copy the link of the notebook 
 
 These notebooks provide an introduction to the Decision Tree model. 
 
-- Notebook 1: Decision Tree: Traing & Visualization
+- Notebook 1: Decision Tree: Training & Visualization
 
 In this notebook, we introduce the Decision Tree model and the CART (Classification and Regression Trees) algorithm for its training.
 
