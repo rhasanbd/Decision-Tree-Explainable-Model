@@ -45,3 +45,9 @@ In this notebook, we perform regression using the Decision Tree model and compar
 
       -- Polynomial Regression (Regularized)
 
+
+- Notebook 4: Decision Tree: Feature Selection
+
+In this notebook, we perform feature selection using the Decision Tree model. It enables us to detrmine the relative importance of each feature, then select the features of higher importance.
+
+The Decision Tree training algorithm, e.g., classification and regression trees (CART), provides importance scores of the features. It measures a feature’s importance by looking at how much the tree nodes that use that feature reduce impurity based on the Gini index or entropy.
